@@ -1,8 +1,8 @@
 ﻿// Fill out your copyright notice in the Description page of Project Settings.
 
-#include "Teacher.h" // 해당 .cpp 파일의 해더는 항상 마지막에 include 해야 한다.
+#include "MyGameInstanceReflectionSystem1.h" // 해당 .cpp 파일의 해더는 항상 먼저 include 해야 한다.
+#include "Teacher.h" 
 #include "Student.h"
-#include "MyGameInstanceReflectionSystem1.h"
 
 UMyGameInstanceReflectionSystem1::UMyGameInstanceReflectionSystem1()
 {

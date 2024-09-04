@@ -72,4 +72,3 @@ void UMyGameInstance2::Init()
 		const static FName StaticOnlyOnce(TEXT("HELLO")); // 이렇게 local static으로 한번만 처리하도록 하거나. 반복되는 루프 밖에서 한 번만 선언하는 것이 좋음.
 	}
 }
-    
