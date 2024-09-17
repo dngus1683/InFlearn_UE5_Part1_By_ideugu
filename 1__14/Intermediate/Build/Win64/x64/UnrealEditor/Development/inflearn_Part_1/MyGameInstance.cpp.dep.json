@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\source\\inflearn_part_1\\mygameinstance.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\intermediate\\build\\win64\\x64\\inflearn_part_1editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inflearn_part_1\\definitions.inflearn_part_1.h",
+            "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\source\\inflearn_part_1\\mygameinstance.h",
+            "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\intermediate\\build\\win64\\unrealeditor\\inc\\inflearn_part_1\\uht\\mygameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

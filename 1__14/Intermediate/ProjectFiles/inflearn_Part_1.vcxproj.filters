@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\inflearn_Part_1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\inflearn_Part_1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\inflearn_Part_1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\inflearn_Part_1.code-workspace" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\inflearn_Part_1">
+      <UniqueIdentifier>{128C1772-27AE-3B28-9257-43332C2A364B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\Card.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\Card.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\CouseInfo.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\CouseInfo.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\inflearn_Part_1\inflearn_Part_1.Build.cs">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\inflearn_Part_1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\inflearn_Part_1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\LessonInterface.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\LessonInterface.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\MyGameInstance.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\MyGameInstance.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\MyGameInstance2.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\MyGameInstance2.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\MyGameInstanceComposition1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\MyGameInstanceComposition1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\MyGameInstanceDelegate1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\MyGameInstanceDelegate1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\MyGameInstanceInterface1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\MyGameInstanceInterface1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\MyGameInstanceMemory1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\MyGameInstanceMemory1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\MyGameInstancePackage1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\MyGameInstancePackage1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\MyGameInstanceReflectionSystem1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\MyGameInstanceReflectionSystem1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\MyGameInstanceSerialization1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\MyGameInstanceSerialization1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\MyGameInstanceUCL1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\MyGameInstanceUCL1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\MyGameInstanceUCL2.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\MyGameInstanceUCL2.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\MyObject.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\MyObject.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\Person.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\Person.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\PersonComposition1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\PersonComposition1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\PersonDelegate1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\PersonDelegate1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\PersonInterface1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\PersonInterface1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\StaffComposition1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\StaffComposition1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\StaffDelegate1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\StaffDelegate1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\StaffInterface1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\StaffInterface1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\Student.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\Student.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\StudentComposition1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\StudentComposition1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\StudentDelegate1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\StudentDelegate1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\StudentInterface.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\StudentInterface.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\StudentInterface1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\StudentInterface1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\StudentManagerMemory1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\StudentManagerMemory1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\StudentMemory1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\StudentMemory1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\StudentPackage1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\StudentPackage1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\StudentSerialization1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\StudentSerialization1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\StudentUCL2.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\StudentUCL2.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\Teacher.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\Teacher.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\TeacherComposition1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\TeacherComposition1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\TeacherDelegate1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\TeacherDelegate1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\inflearn_Part_1\TeacherInterface1.cpp">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\inflearn_Part_1\TeacherInterface1.h">
+      <Filter>Source\inflearn_Part_1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\source\\inflearn_part_1\\teachercomposition1.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\intermediate\\build\\win64\\x64\\inflearn_part_1editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inflearn_part_1\\definitions.inflearn_part_1.h",
+            "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\source\\inflearn_part_1\\teachercomposition1.h",
+            "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\source\\inflearn_part_1\\personcomposition1.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\intermediate\\build\\win64\\unrealeditor\\inc\\inflearn_part_1\\uht\\personcomposition1.generated.h",
+            "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\intermediate\\build\\win64\\unrealeditor\\inc\\inflearn_part_1\\uht\\teachercomposition1.generated.h",
+            "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\source\\inflearn_part_1\\card.h",
+            "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\intermediate\\build\\win64\\unrealeditor\\inc\\inflearn_part_1\\uht\\card.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

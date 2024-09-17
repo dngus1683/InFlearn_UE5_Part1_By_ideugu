@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-inflearn_Part_1-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Jangwh\Documents\Unreal Projects\inflearn_Part_1\Intermediate\Build\Win64\x64\inflearn_Part_1Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.h.obj"
+"C:\Users\Jangwh\Documents\Unreal Projects\inflearn_Part_1\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\inflearn_Part_1\Module.inflearn_Part_1.cpp.obj"
+"C:\Users\Jangwh\Documents\Unreal Projects\inflearn_Part_1\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\inflearn_Part_1\MyGameInstancePackage1.cpp.obj"
+"C:\Users\Jangwh\Documents\Unreal Projects\inflearn_Part_1\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\inflearn_Part_1\StudentPackage1.cpp.obj"
+"C:\Users\Jangwh\Documents\Unreal Projects\inflearn_Part_1\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\inflearn_Part_1\Default.rc2.res"
+/OUT:"C:\Users\Jangwh\Documents\Unreal Projects\inflearn_Part_1\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\inflearn_Part_1\UnrealEditor-inflearn_Part_1-Win64-DebugGame.lib"

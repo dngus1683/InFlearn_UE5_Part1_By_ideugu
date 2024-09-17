@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\source\\inflearn_part_1\\mygameinstancepackage1.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\intermediate\\build\\win64\\x64\\inflearn_part_1editor\\debuggame\\engine\\sharedpch.engine.nonoptimized.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\inflearn_part_1\\definitions.inflearn_part_1.h",
+            "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\source\\inflearn_part_1\\mygameinstancepackage1.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\misc\\packageaccesstracking.h",
+            "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\intermediate\\build\\win64\\unrealeditor\\inc\\inflearn_part_1\\uht\\mygameinstancepackage1.generated.h",
+            "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\source\\inflearn_part_1\\studentpackage1.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\users\\jangwh\\documents\\unreal projects\\inflearn_part_1\\intermediate\\build\\win64\\unrealeditor\\inc\\inflearn_part_1\\uht\\studentpackage1.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\savepackage.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\serialization\\packagewriter.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\io\\iodispatcher.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\io\\iobuffer.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\io\\iocontainerid.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\io\\iostatus.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\misc\\ienginecrypto.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\tasks\\task.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\serialization\\compactbinary.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
